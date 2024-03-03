@@ -140,6 +140,10 @@ ros2 launch nav2_sentry_bringup sentry_launch.py
 ```
 
 ## Install the Dependency
+
+### Realsense-Ros2
+[realsense-ros](https://github.com/IntelRealSense/realsense-ros?tab=readme-ov-file#rgbd-topic)
+
 ### VINS-FUSION
 - OpenCV3.4.1
 - [Ceres Solver-2.1.0](http://ceres-solver.org/installation.html)
